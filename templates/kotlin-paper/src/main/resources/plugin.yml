@@ -1,0 +1,12 @@
+name: __PLUGIN_NAME__
+main: __MAIN_CLASS__
+version: 1.0.0
+api-version: __API_VERSION__
+author: You
+description: Generated Paper plugin (Kotlin)
+commands:
+  __PLUGIN_NAME__:
+    description: Test command for __PLUGIN_NAME__
+    usage: /<command>
+
+
